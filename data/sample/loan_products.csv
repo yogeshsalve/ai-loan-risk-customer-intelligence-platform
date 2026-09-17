@@ -1,0 +1,6 @@
+product_id,product_name,product_type,interest_rate,min_amount,max_amount,max_tenure_months
+LP001,Personal Loan,PERSONAL,14.5,50000,500000,60
+LP002,Auto Loan,AUTO,10.5,100000,1500000,84
+LP003,Home Loan,HOME,8.5,500000,5000000,240
+LP004,Business Loan,BUSINESS,16.0,100000,2000000,120
+LP005,Gold Loan,GOLD,12.0,20000,1000000,36

@@ -1,0 +1,11 @@
+branch_id,branch_name,city,state,region
+BR001,Mumbai Main Branch,Mumbai,Maharashtra,West
+BR002,Pune Main Branch,Pune,Maharashtra,West
+BR003,Nashik Main Branch,Nashik,Maharashtra,West
+BR004,Ahmedabad Main Branch,Ahmedabad,Gujarat,West
+BR005,Bengaluru Main Branch,Bengaluru,Karnataka,South
+BR006,Hyderabad Main Branch,Hyderabad,Telangana,South
+BR007,Delhi Main Branch,Delhi,Delhi,North
+BR008,Jaipur Main Branch,Jaipur,Rajasthan,North
+BR009,Kolkata Main Branch,Kolkata,West Bengal,East
+BR010,Chennai Main Branch,Chennai,Tamil Nadu,South
